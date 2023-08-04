@@ -165,8 +165,8 @@ font-size: 5em;
 font-weight: 800;*/
 }
 
-section:nth-child(odd){ background:#d0d7f4;}
-section:nth-child(even){ background:#f7e3f7;}
+section:nth-child(odd){ background:#f7e3f7;}
+section:nth-child(even){ background:#d0d7f4;}
 nav{
 position: fixed;
 top: 0;
